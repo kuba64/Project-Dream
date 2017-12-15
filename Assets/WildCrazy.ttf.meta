@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3f675ec384dbbd64bbe07ed6de12d71e
+timeCreated: 1501241290
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: WildCrazy
+  fontNames:
+  - WildCrazy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
